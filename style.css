@@ -6,9 +6,10 @@ body {
   color: aliceblue;
 }
 
-.mainvisual {
+div.mainvisual {
   display: flex;
   text-align: center;
+  background: black;
 }
 
 .mainvisual img {
