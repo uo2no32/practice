@@ -6,12 +6,12 @@ body {
   color: aliceblue;
 }
 
-div.mainvisual {
-  display: flex;
-  text-align: center;
-  background: black;
+.mainvisual {
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  height: 507px;
+  background-image: url(mustlenekochan.png);
+  background-repeat: repeat-x;
+  background-size: contain
 }
 
-.mainvisual img {
-  margin: 0 auto;
-}
